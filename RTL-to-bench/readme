@@ -1,0 +1,1 @@
+The conversion from RTL to .bench netlist is crucial in hardware design and verification workflows. This repository aims to simplify this process by offering a collection of scripts and utilities that automate the conversion using ABC and Yosys, two widely used synthesis open-source tools in the hardware design community.
