@@ -4,15 +4,17 @@ To convert a Register Transfer Level (RTL) description to a .bench file format u
 
 Install Yosys and ABC:
 
-Yosys: Yosys is an open-source synthesis tool. You can find installation instructions for Yosys on the official GitHub repository: https://github.com/YosysHQ/yosys
-ABC: ABC is a logic synthesis and optimization tool. You can find installation instructions for ABC on the ABC GitHub repository: https://github.com/berkeley-abc/abc
+Yosys: Yosys is an open-source synthesis tool. You can find installation instructions for Yosys on the official GitHub repository: 
+https://github.com/YosysHQ/yosys
+ABC: ABC is a logic synthesis and optimization tool. You can find installation instructions for ABC on the ABC GitHub repository: 
+https://github.com/berkeley-abc/abc
 Prepare your RTL description:
 
 1. Write or obtain the RTL description of your circuit in a supported format, such as Verilog (.v) or VHDL (.vhdl).
 
 2. Invoke Yosys/Synopsys Design Compiler to perform synthesis
 
-3. Replace your_rtl_file.v with the path to your RTL file in ABC compiler, and your_bench_file.bench with the desired output filename for the .bench file.
+3. Replace your_rtl_file.v with the path to your RTL file in the ABC compiler, and your_bench_file.bench with the desired output filename for the .bench file.
 
 4. Verify the generated .bench file:
 
