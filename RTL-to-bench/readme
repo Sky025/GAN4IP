@@ -8,16 +8,13 @@ Yosys: Yosys is an open-source synthesis tool. You can find installation instruc
 ABC: ABC is a logic synthesis and optimization tool. You can find installation instructions for ABC on the ABC GitHub repository: https://github.com/berkeley-abc/abc
 Prepare your RTL description:
 
-Write or obtain the RTL description of your circuit in a supported format, such as Verilog (.v) or VHDL (.vhdl).
-Invoke Yosys to perform synthesis:
+1. Write or obtain the RTL description of your circuit in a supported format, such as Verilog (.v) or VHDL (.vhdl).
 
-Open a terminal or command prompt and navigate to the directory containing your RTL file.
-Run the following command to invoke Yosys and perform synthesis using ABC:
+2. Invoke Yosys/Synopsys Design Compiler to perform synthesis
 
-yosys -m abc -p "read_verilog your_rtl_file.v; synth; abc -g; write_bench your_bench_file.bench"
+3. Replace your_rtl_file.v with the path to your RTL file in ABC compiler, and your_bench_file.bench with the desired output filename for the .bench file.
 
-Replace your_rtl_file.v with the path to your RTL file, and your_bench_file.bench with the desired output filename for the .bench file.
-Verify the generated .bench file:
+4. Verify the generated .bench file:
 
 Once the command completes, you should have a .bench file generated in the current directory.
 
