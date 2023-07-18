@@ -2,6 +2,15 @@ GraphGAN is a Generative Adversarial Network (GAN) variant specifically designed
 For more detail:
 [GraphGAN](https://github.com/hwwang55/GraphGAN)
 
+### Requirements
+The code has been tested running under Python 3.6.5, with the following packages installed (along with their dependencies):
+
+- tensorflow == 1.8.0
+- tqdm == 4.23.4 (for displaying the progress bar)
+- numpy == 1.14.3
+- sklearn == 0.19.1
+
+
 ```
   @inproceedings{wang2018graphgan,
   title={Graphgan: Graph representation learning with generative adversarial nets},
