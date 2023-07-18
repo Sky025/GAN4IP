@@ -1,1 +1,1 @@
-
+Graph2RTL is a methodology or framework that aims to convert graph representations of digital circuits back into Register Transfer Level (RTL) representations. The goal of Graph2RTL is to reconstruct the original RTL design from its graph representation while preserving its functionality and structural properties. This conversion process is essential for further analysis, verification, and synthesis of the circuit. 
