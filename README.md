@@ -4,11 +4,11 @@ This GitHub repository serves as a comprehensive resource for the research on _G
 
 The repository includes implementations of the proposed GAN4IP pipeline, which encompasses key steps such as data generation, model training, defense generation, security evaluation, and optimization. These implementations are designed to facilitate the understanding and replication of the research methodology.
 
-Additionally, the repository provides access to the datasets used in the project, allowing researchers and reviewers to analyze and validate the experimental results. The code and documentation are organized in a structured manner to ensure ease of use and clarity.
+Additionally, the repository provides access to the datasets used in the project, allowing researchers to analyze and validate the experimental results. The code and documentation are organized in a structured manner to ensure ease of use and clarity.
 
-This repository demonstrates ongoing progress and serves as a valuable resource for reviewers to assess the research's technical aspects and reproducibility. It aims to foster collaboration and provide transparency in the research process.
+This repository demonstrates ongoing progress and serves as a valuable resource to assess the research's technical aspects and reproducibility. It aims to foster collaboration and provide transparency in the research process.
 
 **Note: This repository is primarily created for the purpose of publication review and may undergo further updates and improvements in the future.**
 
 
-**Disclaimer**: Some of the code in this repository is based on the work from the various existing repository, and we do not claim ownership of any of those codes. We acknowledge and respect the original authors' contributions. Please refer to the original repository for any licensing or ownership information regarding the code.
+```**Disclaimer**: Some of the code in this repository is based on the work from the various existing repository, and we do not claim ownership of any of those codes. We acknowledge and respect the original authors' contributions. Please refer to the original repository for any licensing or ownership information regarding the code.```
