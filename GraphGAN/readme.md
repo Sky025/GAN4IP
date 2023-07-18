@@ -8,6 +8,5 @@ GraphGAN is a Generative Adversarial Network (GAN) variant specifically designed
   booktitle={Proceedings of the AAAI conference on artificial intelligence},
   volume={32},
   number={1},
-  year={2018}
-}
+  year={2018}}
 ```
