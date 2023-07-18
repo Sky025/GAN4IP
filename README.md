@@ -11,4 +11,4 @@ This repository demonstrates ongoing progress and serves as a valuable resource 
 **Note: This repository is primarily created for the purpose of publication review and may undergo further updates and improvements in the future.**
 
 
-**Disclaimer**: The code in this repository is based on the work from the original [existing repository](), and we do not claim ownership of any code. We acknowledge and respect the original authors' contributions. Please refer to the original repository for any licensing or ownership information regarding the code.
+**Disclaimer**: The code in this repository is based on the work from the various original [existing repository](), and we do not claim ownership of any codes. We acknowledge and respect the original authors' contributions. Please refer to the original repository for any licensing or ownership information regarding the code.
